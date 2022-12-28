@@ -13,3 +13,7 @@ Your users should be able to:
 - View the optimal layout for each of the website's pages depending on their device's screen size
 - See hover states for all interactive elements on the page
 - View each page and be able to toggle between the tabs to see new information
+
+
+https://user-images.githubusercontent.com/99580663/209850999-90b36f25-3a9a-4d7b-93c5-d5b4f0a1c7e2.mp4
+
